@@ -1,4 +1,4 @@
-# hodor_face_recognition
+# Potential Face Recognition Module for Hodor
 A simple face recognition using OpenCV and Python. 
 
 Right now it can detect my face with fairly good accuracy. 
